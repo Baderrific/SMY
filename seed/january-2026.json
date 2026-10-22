@@ -1,0 +1,1660 @@
+{
+ "period": "2026-01",
+ "efficiency": [
+  {
+   "date": "2026-01-02",
+   "line": "YC1",
+   "efficiency": 97.02,
+   "moldNo": "M3354",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-02",
+   "line": "YC2",
+   "efficiency": 85.56,
+   "moldNo": "M1642",
+   "remarks": "STRIP 6.18 / SGAP 3.08 / FLEXC 1.60 / FLEXB 1.80",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-02",
+   "line": "YC3",
+   "efficiency": 94.89,
+   "moldNo": "M7576",
+   "remarks": "SGAP 1.60",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-02",
+   "line": "YC4",
+   "efficiency": 96,
+   "moldNo": "M3354",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-03",
+   "line": "YC1",
+   "efficiency": 97.36,
+   "moldNo": "M3354",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-03",
+   "line": "YC2",
+   "efficiency": 89.06,
+   "moldNo": "M1642",
+   "remarks": "STRIP 1.60 / SGAP 3.75 / FLEXC 1.50 / FLEXB 2.10",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-03",
+   "line": "YC3",
+   "efficiency": 93.27,
+   "moldNo": "M7576",
+   "remarks": "SGAP 2.70 / FLEXC 1.56",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-03",
+   "line": "YC4",
+   "efficiency": 97.67,
+   "moldNo": "M3354",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-04",
+   "line": "YC1",
+   "efficiency": 96.01,
+   "moldNo": "M3354",
+   "remarks": "SGAP 1.46",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-04",
+   "line": "YC2",
+   "efficiency": 80.16,
+   "moldNo": "M1642",
+   "remarks": "ENDORSED 3.18 / SGAP 10.64 / FLEXC 1.71 / FLEXB 2.10",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-04",
+   "line": "YC3",
+   "efficiency": 86.15,
+   "moldNo": "M7576",
+   "remarks": "SGAP 9.25 / FLEXC 1.90",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-04",
+   "line": "YC4",
+   "efficiency": 96,
+   "moldNo": "M3354",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-06",
+   "line": "YC1",
+   "efficiency": 77.75,
+   "moldNo": "M3129",
+   "remarks": "NEWLY JOB CHANGE",
+   "excludeFromAverage": true
+  },
+  {
+   "date": "2026-01-06",
+   "line": "YC2",
+   "efficiency": 82.38,
+   "moldNo": "M1642",
+   "remarks": "STRIP 5.49 / SGAP 4.73 / FLEXC 2.45 / FLEXB 3.48",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-06",
+   "line": "YC3",
+   "efficiency": 94.57,
+   "moldNo": "M7576",
+   "remarks": "FLEXC 1.53",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-06",
+   "line": "YC4",
+   "efficiency": 98.33,
+   "moldNo": "M3354",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-07",
+   "line": "YC1",
+   "efficiency": 94.76,
+   "moldNo": "M3129",
+   "remarks": "FLEXB 1.76",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-07",
+   "line": "YC2",
+   "efficiency": 94.79,
+   "moldNo": "M1642",
+   "remarks": "STRIP 3.03 / SGAP 2.50 / FLEXC 1.82 / FLEXB 1.75",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-07",
+   "line": "YC3",
+   "efficiency": 100.4,
+   "moldNo": "M7576",
+   "remarks": "SGAP 1.05 / FLEXC 1.05 / FLEXB 1.55 / RETURNED 6.48",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-07",
+   "line": "YC4",
+   "efficiency": 0,
+   "moldNo": "M3069",
+   "remarks": "NEWLY JOB CHANGE",
+   "excludeFromAverage": true
+  },
+  {
+   "date": "2026-01-08",
+   "line": "YC1",
+   "efficiency": 96.07,
+   "moldNo": "M3129",
+   "remarks": "SGAP 1.03",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-08",
+   "line": "YC2",
+   "efficiency": 16.19,
+   "moldNo": "M7261",
+   "remarks": "NEWLY JOB CHANGE",
+   "excludeFromAverage": true
+  },
+  {
+   "date": "2026-01-08",
+   "line": "YC3",
+   "efficiency": 91.33,
+   "moldNo": "M7576",
+   "remarks": "SGAP 3.03 / FLEXB 2.93",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-08",
+   "line": "YC4",
+   "efficiency": 35.75,
+   "moldNo": "M3069",
+   "remarks": "VIS 1.64 / STRIP 50.70 / SGAP 4.03 / FLEXC 7.10",
+   "excludeFromAverage": true
+  },
+  {
+   "date": "2026-01-09",
+   "line": "YC1",
+   "efficiency": 94.24,
+   "moldNo": "M3129",
+   "remarks": "SGAP 1.74",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-09",
+   "line": "YC2",
+   "efficiency": 92.02,
+   "moldNo": "M7261",
+   "remarks": "SGAP 2.54 / FLEXC 1.89 / FLEXM 1.10 / FLEXB 1.93",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-09",
+   "line": "YC3",
+   "efficiency": 93.92,
+   "moldNo": "M7576",
+   "remarks": "SGAP 2.83 / FLEXC 1.50 / FLEXB 1.30",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-09",
+   "line": "YC4",
+   "efficiency": 78.83,
+   "moldNo": "M3069",
+   "remarks": "VIS 3.66 / SGAP 1.95 / FLEXC 8.94 / FLEXM 3.68 / FLEXB 1.70",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-10",
+   "line": "YC1",
+   "efficiency": 95.02,
+   "moldNo": "M3129",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-10",
+   "line": "YC2",
+   "efficiency": 87.97,
+   "moldNo": "M7261",
+   "remarks": "SGAP 3.37 / FLEXC 2.79 / FLEXB 2.56",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-10",
+   "line": "YC3",
+   "efficiency": 96.14,
+   "moldNo": "M7576",
+   "remarks": "SGAP 2.31 / FLEXC 1.35 / FLEXB 1.10",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-10",
+   "line": "YC4",
+   "efficiency": 77,
+   "moldNo": "M3069",
+   "remarks": "VIS 3.11 / STRIP 3.50 / SGAP 5.93 / FLEXC 8.79 / FLEXB 2.43",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-11",
+   "line": "YC1",
+   "efficiency": 87.69,
+   "moldNo": "M3129",
+   "remarks": "LGAP 9.38",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-11",
+   "line": "YC2",
+   "efficiency": 93.63,
+   "moldNo": "M7261",
+   "remarks": "SGAP 2.08 / FLEXC 1.95 / FLEXB 1.53",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-11",
+   "line": "YC3",
+   "efficiency": 96.19,
+   "moldNo": "M7576",
+   "remarks": "SGAP 2.08 / FLEXC 1.35 / FLEXB 1.20",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-11",
+   "line": "YC4",
+   "efficiency": 77.46,
+   "moldNo": "M3069",
+   "remarks": "VIS 3.38 / STRIP 5.37 / SGAP 2.24 / FLEXC 6.82 / FLEXM 1.89 / FLEXB 1.76",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-14",
+   "line": "YC1",
+   "efficiency": 96.33,
+   "moldNo": "M3129",
+   "remarks": "FLEXB 1.50",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-14",
+   "line": "YC2",
+   "efficiency": 97.89,
+   "moldNo": "M7577",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-14",
+   "line": "YC3",
+   "efficiency": 97.16,
+   "moldNo": "M7576",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-14",
+   "line": "YC4",
+   "efficiency": 85.5,
+   "moldNo": "M3069",
+   "remarks": "STRIP 2.47 / SGAP 1.82 / FLEXC 6.61 / FLEXM 2.10",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-15",
+   "line": "YC1",
+   "efficiency": 95.02,
+   "moldNo": "M3129",
+   "remarks": "FLEXB 1.10",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-15",
+   "line": "YC2",
+   "efficiency": 98.21,
+   "moldNo": "M7577",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-15",
+   "line": "YC3",
+   "efficiency": 66.52,
+   "moldNo": "M7150",
+   "remarks": "NEWLY JOB CHANGE",
+   "excludeFromAverage": true
+  },
+  {
+   "date": "2026-01-15",
+   "line": "YC4",
+   "efficiency": 82.04,
+   "moldNo": "M3069",
+   "remarks": "VIS 4.74 / STRIP 4.29 / SGAP 1.36 / FLEXC 3.21 / FLEXM 1.63",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-16",
+   "line": "YC1",
+   "efficiency": 95.81,
+   "moldNo": "M3129",
+   "remarks": "SGAP 1.28",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-16",
+   "line": "YC2",
+   "efficiency": 73.76,
+   "moldNo": "M3070",
+   "remarks": "NEWLY JOB CHANGE",
+   "excludeFromAverage": true
+  },
+  {
+   "date": "2026-01-16",
+   "line": "YC3",
+   "efficiency": 89.71,
+   "moldNo": "M7150",
+   "remarks": "STRIP 1.67 / LGAP 1.04 / FLEXC 2.08 / FLEXB 3.35",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-16",
+   "line": "YC4",
+   "efficiency": 88,
+   "moldNo": "M3069",
+   "remarks": "VIS 4.77 / STRIP 1.04 / FLEXC 4.71",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-18",
+   "line": "YC1",
+   "efficiency": 95.72,
+   "moldNo": "M3129",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-18",
+   "line": "YC2",
+   "efficiency": 90.46,
+   "moldNo": "M3070",
+   "remarks": "VIS 1.17 / FLEXC 3.50 / FLEXB 4.96",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-18",
+   "line": "YC3",
+   "efficiency": 79.33,
+   "moldNo": "M7150",
+   "remarks": "STRIP 2.76 / SGAP 2.81 / FLEXC 6.40 / FLEXM 3.97 / FLEXB 2.88",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-18",
+   "line": "YC4",
+   "efficiency": 95.29,
+   "moldNo": "M3129",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC1",
+   "efficiency": 97.52,
+   "moldNo": "M3129",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC2",
+   "efficiency": 87.88,
+   "moldNo": "M3070",
+   "remarks": "STRIP 3.03 / SGAP 1.24 / FLEXC 4.71 / FLEXB 2.59",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC3",
+   "efficiency": 89.71,
+   "moldNo": "M7150",
+   "remarks": "ENDORSED 1.22 / SGAP 1.04 / FLEXC 3.06 / FLEXB 2.01",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC4",
+   "efficiency": 95.81,
+   "moldNo": "M3129",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-20",
+   "line": "YC1",
+   "efficiency": 96.23,
+   "moldNo": "M3129",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-20",
+   "line": "YC2",
+   "efficiency": 90.23,
+   "moldNo": "M3070",
+   "remarks": "VIS 1.82 / STRIP 2.51 / SGAP 1.26 / FLEXC 3.12 / FLEXB 1.51",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-20",
+   "line": "YC3",
+   "efficiency": 88.71,
+   "moldNo": "M7150",
+   "remarks": "STRIP 2.03 / SGAP 1.66 / FLEXC 3.18 / FLEXB 2.25",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-20",
+   "line": "YC4",
+   "efficiency": 94.98,
+   "moldNo": "M3129",
+   "remarks": "FLEXM 1.22",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-21",
+   "line": "YC1",
+   "efficiency": 97,
+   "moldNo": "M3129",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-21",
+   "line": "YC2",
+   "efficiency": 21.88,
+   "moldNo": "M3070",
+   "remarks": "NEWLY JOB CHANGE",
+   "excludeFromAverage": true
+  },
+  {
+   "date": "2026-01-21",
+   "line": "YC3",
+   "efficiency": 95.49,
+   "moldNo": "M7150",
+   "remarks": "SGAP 1.96 / FLEXC 3.11 / FLEXB 1.89",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-21",
+   "line": "YC4",
+   "efficiency": 95.5,
+   "moldNo": "M3129",
+   "remarks": "FLEXC 1.30 / FLEXB 1.22",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-22",
+   "line": "YC1",
+   "efficiency": 93.14,
+   "moldNo": "M3129",
+   "remarks": "LGAP 3.13",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-22",
+   "line": "YC2",
+   "efficiency": 93.13,
+   "moldNo": "M3356",
+   "remarks": "VIS 1.40 / FLEXC 2.19",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-22",
+   "line": "YC3",
+   "efficiency": 40.66,
+   "moldNo": "M7150",
+   "remarks": "NEWLY JOB CHANGE",
+   "excludeFromAverage": true
+  },
+  {
+   "date": "2026-01-22",
+   "line": "YC4",
+   "efficiency": 98.1,
+   "moldNo": "M3129",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-23",
+   "line": "YC1",
+   "efficiency": 93.91,
+   "moldNo": "M3129",
+   "remarks": "STRIP 1.05 / SGAP 1.36",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-23",
+   "line": "YC2",
+   "efficiency": 93.75,
+   "moldNo": "M3356",
+   "remarks": "VIS 1.62 / FLEXC 2.16 / FLEXB 1.13",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-23",
+   "line": "YC3",
+   "efficiency": 96.51,
+   "moldNo": "M7576",
+   "remarks": "SGAP 1.49 / FLEXC 1.73",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-23",
+   "line": "YC4",
+   "efficiency": 60.55,
+   "moldNo": "M3129",
+   "remarks": "NEWLY JOB CHANGE",
+   "excludeFromAverage": true
+  },
+  {
+   "date": "2026-01-26",
+   "line": "YC1",
+   "efficiency": 93.14,
+   "moldNo": "M3129",
+   "remarks": "STRIP 1.17 / SGAP 1.37 / FLEXB 1.91",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-26",
+   "line": "YC2",
+   "efficiency": 96.25,
+   "moldNo": "M3356",
+   "remarks": "VIS 1.37 / FLEXC 1.41",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-26",
+   "line": "YC3",
+   "efficiency": 94.89,
+   "moldNo": "M7576",
+   "remarks": "SGAP 1.35",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-26",
+   "line": "YC4",
+   "efficiency": 95.47,
+   "moldNo": "M3355",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-27",
+   "line": "YC1",
+   "efficiency": 94.69,
+   "moldNo": "M3129",
+   "remarks": "SGAP 1.62",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-27",
+   "line": "YC2",
+   "efficiency": 94.38,
+   "moldNo": "M3356",
+   "remarks": "VIS 1.47 / FLEXC 1.98",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-27",
+   "line": "YC3",
+   "efficiency": 84.53,
+   "moldNo": "M7576",
+   "remarks": "STRIP 1.36 / LGAP 7.30 / SGAP 5.32",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-27",
+   "line": "YC4",
+   "efficiency": 95.47,
+   "moldNo": "M3355",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-28",
+   "line": "YC1",
+   "efficiency": 96.23,
+   "moldNo": "M3129",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-28",
+   "line": "YC2",
+   "efficiency": 95,
+   "moldNo": "M3356",
+   "remarks": "VIS 1.21 / FLEXC 1.73",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-28",
+   "line": "YC3",
+   "efficiency": 97.15,
+   "moldNo": "M7576",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-28",
+   "line": "YC4",
+   "efficiency": 96.48,
+   "moldNo": "M3355",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-30",
+   "line": "YC1",
+   "efficiency": 94.69,
+   "moldNo": "M3129",
+   "remarks": "FLEXB 1.20",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-30",
+   "line": "YC2",
+   "efficiency": 93.13,
+   "moldNo": "M3356",
+   "remarks": "VIS 2.39 / FLEXC 2.43",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-30",
+   "line": "YC3",
+   "efficiency": 95.54,
+   "moldNo": "M7576",
+   "remarks": "SGAP 1.55",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-30",
+   "line": "YC4",
+   "efficiency": 94.45,
+   "moldNo": "M3355",
+   "remarks": "SGAP 1.30 / FLEXB 1.87",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-31",
+   "line": "YC1",
+   "efficiency": 94.69,
+   "moldNo": "M3129",
+   "remarks": "SGAP 1.03 / FLEXM 1.36",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-31",
+   "line": "YC2",
+   "efficiency": 91.25,
+   "moldNo": "M3356",
+   "remarks": "VIS 1.48 / STRIP 4.28 / FLEXC 1.68",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-31",
+   "line": "YC3",
+   "efficiency": 95.86,
+   "moldNo": "M7576",
+   "remarks": "LGAP 1.04 / SGAP 1.56",
+   "excludeFromAverage": false
+  },
+  {
+   "date": "2026-01-31",
+   "line": "YC4",
+   "efficiency": 96.15,
+   "moldNo": "M3355",
+   "remarks": "NORMAL OPERATION",
+   "excludeFromAverage": false
+  }
+ ],
+ "daysOverride": {
+  "YC1": null,
+  "YC2": 19.8,
+  "YC3": null,
+  "YC4": null
+ },
+ "effTarget": 94.5,
+ "stripping": [
+  {
+   "date": "2026-01-02",
+   "line": "YC1",
+   "moldNo": "M3354",
+   "defect": "BULGED PANEL",
+   "percent": 0.86
+  },
+  {
+   "date": "2026-01-04",
+   "line": "YC1",
+   "moldNo": "M3354",
+   "defect": "BLURRES STIPPLING",
+   "percent": 0.09
+  },
+  {
+   "date": "2026-01-06",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "COLD BASE",
+   "percent": 0.13
+  },
+  {
+   "date": "2026-01-07",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "OFF-ROUND",
+   "percent": 0.62
+  },
+  {
+   "date": "2026-01-09",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "WASHBOARD",
+   "percent": 0.52
+  },
+  {
+   "date": "2026-01-15",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "OFF-ROUND",
+   "percent": 0.6
+  },
+  {
+   "date": "2026-01-16",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "OFF-ROUND",
+   "percent": 0.3
+  },
+  {
+   "date": "2026-01-16",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "WASHBOARD",
+   "percent": 0.52
+  },
+  {
+   "date": "2026-01-21",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "THINSPOT",
+   "percent": 0.79
+  },
+  {
+   "date": "2026-01-22",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "OFF-ROUND",
+   "percent": 0.22
+  },
+  {
+   "date": "2026-01-23",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "WASHBOARD",
+   "percent": 0.35
+  },
+  {
+   "date": "2026-01-23",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "FOLD ON SHOULDER",
+   "percent": 0.35
+  },
+  {
+   "date": "2026-01-23",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "THINSPOT",
+   "percent": 0.35
+  },
+  {
+   "date": "2026-01-26",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "OFF-ROUND",
+   "percent": 1.17
+  },
+  {
+   "date": "2026-01-27",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "SHARP LIP",
+   "percent": 0.4
+  },
+  {
+   "date": "2026-01-28",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "WASHBOARD",
+   "percent": 0.09
+  },
+  {
+   "date": "2026-01-30",
+   "line": "YC1",
+   "moldNo": "M3129",
+   "defect": "WASHBOARD",
+   "percent": 0.17
+  },
+  {
+   "date": "2026-01-02",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "DEEP SEAM",
+   "percent": 0.94
+  },
+  {
+   "date": "2026-01-02",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "OFFSET BODY SEAM",
+   "percent": 4.52
+  },
+  {
+   "date": "2026-01-02",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "DENTED BASE / RPT FAILURE",
+   "percent": 0.28
+  },
+  {
+   "date": "2026-01-02",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "TOOLMARK / RPT FAILURE",
+   "percent": 0.42
+  },
+  {
+   "date": "2026-01-03",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "DENTED NECK",
+   "percent": 0.33
+  },
+  {
+   "date": "2026-01-03",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "DENTED SEAM",
+   "percent": 0.23
+  },
+  {
+   "date": "2026-01-03",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "WASHBOARD",
+   "percent": 0.14
+  },
+  {
+   "date": "2026-01-03",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "RPT FAILURE",
+   "percent": 0.09
+  },
+  {
+   "date": "2026-01-04",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "WASHBOARD",
+   "percent": 0.14
+  },
+  {
+   "date": "2026-01-06",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "DEEP SEAM",
+   "percent": 2.42
+  },
+  {
+   "date": "2026-01-06",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "RPT FAILURE",
+   "percent": 2.13
+  },
+  {
+   "date": "2026-01-06",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "WASHBOARD",
+   "percent": 0.75
+  },
+  {
+   "date": "2026-01-06",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "OFFSET BODY SEAM",
+   "percent": 0.19
+  },
+  {
+   "date": "2026-01-07",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "SHARP NECK PARTING LINE",
+   "percent": 1.19
+  },
+  {
+   "date": "2026-01-07",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "RPT FAILURE",
+   "percent": 0.81
+  },
+  {
+   "date": "2026-01-07",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "WASHBOARD",
+   "percent": 0.85
+  },
+  {
+   "date": "2026-01-07",
+   "line": "YC2",
+   "moldNo": "M1642",
+   "defect": "OFFSET BODY SEAM",
+   "percent": 0.28
+  },
+  {
+   "date": "2026-01-10",
+   "line": "YC2",
+   "moldNo": "M7261",
+   "defect": "KNURLING CHECK",
+   "percent": 0.79
+  },
+  {
+   "date": "2026-01-11",
+   "line": "YC2",
+   "moldNo": "M7261",
+   "defect": "SCAR ON FINISH",
+   "percent": 0.35
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC2",
+   "moldNo": "M3070",
+   "defect": "SUNKEN BODY",
+   "percent": 1.25
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC2",
+   "moldNo": "M3070",
+   "defect": "SKIN CHECK ON NECK",
+   "percent": 0.63
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC2",
+   "moldNo": "M3070",
+   "defect": "MOLDMARK",
+   "percent": 0.73
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC2",
+   "moldNo": "M3070",
+   "defect": "WASHBOARD",
+   "percent": 0.42
+  },
+  {
+   "date": "2026-01-20",
+   "line": "YC2",
+   "moldNo": "M3070",
+   "defect": "FRACTURED BASE",
+   "percent": 2.51
+  },
+  {
+   "date": "2026-01-22",
+   "line": "YC2",
+   "moldNo": "M3070",
+   "defect": "NECK CHECK",
+   "percent": 0.42
+  },
+  {
+   "date": "2026-01-23",
+   "line": "YC2",
+   "moldNo": "M3356",
+   "defect": "WASHBOARD",
+   "percent": 0.63
+  },
+  {
+   "date": "2026-01-28",
+   "line": "YC2",
+   "moldNo": "M3356",
+   "defect": "CHECK UNDER SKIRT",
+   "percent": 0.21
+  },
+  {
+   "date": "2026-01-30",
+   "line": "YC2",
+   "moldNo": "M3356",
+   "defect": "SCAR",
+   "percent": 0.42
+  },
+  {
+   "date": "2026-01-30",
+   "line": "YC2",
+   "moldNo": "M3356",
+   "defect": "SCAR WITH BLISTER",
+   "percent": 0.42
+  },
+  {
+   "date": "2026-01-31",
+   "line": "YC2",
+   "moldNo": "M3356",
+   "defect": "SCAR",
+   "percent": 1.25
+  },
+  {
+   "date": "2026-01-31",
+   "line": "YC2",
+   "moldNo": "M3356",
+   "defect": "FROSTED APPEARANCE",
+   "percent": 0.42
+  },
+  {
+   "date": "2026-01-31",
+   "line": "YC2",
+   "moldNo": "M3356",
+   "defect": "SUNKEN PANEL",
+   "percent": 2.4
+  },
+  {
+   "date": "2026-01-31",
+   "line": "YC2",
+   "moldNo": "M3356",
+   "defect": "SKIRT CHECK",
+   "percent": 0.21
+  },
+  {
+   "date": "2026-01-02",
+   "line": "YC3",
+   "moldNo": "M7576",
+   "defect": "MOLDMARK ON BODY",
+   "percent": 0.67
+  },
+  {
+   "date": "2026-01-02",
+   "line": "YC3",
+   "moldNo": "M7576",
+   "defect": "DENTED NECK",
+   "percent": 0.21
+  },
+  {
+   "date": "2026-01-16",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "BODY CHECK",
+   "percent": 0.31
+  },
+  {
+   "date": "2026-01-16",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "SCAR",
+   "percent": 0.52
+  },
+  {
+   "date": "2026-01-16",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "WASHBOARD",
+   "percent": 0.84
+  },
+  {
+   "date": "2026-01-18",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "DIRTY MOLD",
+   "percent": 1.31
+  },
+  {
+   "date": "2026-01-18",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "DEFORMED NECK",
+   "percent": 0.72
+  },
+  {
+   "date": "2026-01-18",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "MOLDMARK",
+   "percent": 0.73
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "BULGED FINISH",
+   "percent": 0.21
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "DELIVERY MARKS",
+   "percent": 0.57
+  },
+  {
+   "date": "2026-01-20",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "ROUGH BASE",
+   "percent": 0.47
+  },
+  {
+   "date": "2026-01-20",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "UNFILLED FINISH",
+   "percent": 0.26
+  },
+  {
+   "date": "2026-01-20",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "FOLD ON NECK",
+   "percent": 0.57
+  },
+  {
+   "date": "2026-01-20",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "BODY CHECK",
+   "percent": 0.73
+  },
+  {
+   "date": "2026-01-21",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "SCAR ON BODY",
+   "percent": 0.99
+  },
+  {
+   "date": "2026-01-23",
+   "line": "YC3",
+   "moldNo": "M7150",
+   "defect": "FOLD ON SHOULDER",
+   "percent": 0.83
+  },
+  {
+   "date": "2026-01-26",
+   "line": "YC3",
+   "moldNo": "M7576",
+   "defect": "FOLD ON HEEL",
+   "percent": 0.1
+  },
+  {
+   "date": "2026-01-27",
+   "line": "YC3",
+   "moldNo": "M7576",
+   "defect": "WASHBOARD",
+   "percent": 0.31
+  },
+  {
+   "date": "2026-01-27",
+   "line": "YC3",
+   "moldNo": "M7576",
+   "defect": "MOLDMARK",
+   "percent": 0.16
+  },
+  {
+   "date": "2026-01-27",
+   "line": "YC3",
+   "moldNo": "M7576",
+   "defect": "FOLD ON HEEL",
+   "percent": 0.89
+  },
+  {
+   "date": "2026-01-09",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "MOLDMARK ON HEEL",
+   "percent": 0.91
+  },
+  {
+   "date": "2026-01-10",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "BLURRED KNURLING",
+   "percent": 1.51
+  },
+  {
+   "date": "2026-01-10",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "FROSTED APPEARANCE",
+   "percent": 1.6
+  },
+  {
+   "date": "2026-01-10",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "FOLD",
+   "percent": 0.39
+  },
+  {
+   "date": "2026-01-11",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "WASHBOARD",
+   "percent": 1.64
+  },
+  {
+   "date": "2026-01-11",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "RIVERMARKS",
+   "percent": 0.59
+  },
+  {
+   "date": "2026-01-11",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "LOADING MARKS",
+   "percent": 1.11
+  },
+  {
+   "date": "2026-01-11",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "FOLD",
+   "percent": 0.98
+  },
+  {
+   "date": "2026-01-11",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "MOLDMARK",
+   "percent": 1.05
+  },
+  {
+   "date": "2026-01-14",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "RIVERMARKS",
+   "percent": 0.78
+  },
+  {
+   "date": "2026-01-14",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "WASHBOARD",
+   "percent": 0.91
+  },
+  {
+   "date": "2026-01-14",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "SKIRT CHECK",
+   "percent": 0.78
+  },
+  {
+   "date": "2026-01-15",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "THREAD CHECK",
+   "percent": 0.65
+  },
+  {
+   "date": "2026-01-15",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "SHOULDER CHECK",
+   "percent": 1.48
+  },
+  {
+   "date": "2026-01-15",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "WASHBOARD",
+   "percent": 1.38
+  },
+  {
+   "date": "2026-01-15",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "OILMARKS",
+   "percent": 0.78
+  },
+  {
+   "date": "2026-01-16",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "WASHBOARD",
+   "percent": 0.65
+  },
+  {
+   "date": "2026-01-16",
+   "line": "YC4",
+   "moldNo": "M3069",
+   "defect": "BLOWTUBE MARK",
+   "percent": 0.39
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC4",
+   "moldNo": "M3129",
+   "defect": "OFF-ROUND",
+   "percent": 0.39
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC4",
+   "moldNo": "M3129",
+   "defect": "SCAR",
+   "percent": 0.3
+  },
+  {
+   "date": "2026-01-19",
+   "line": "YC4",
+   "moldNo": "M3129",
+   "defect": "BODY CHECK",
+   "percent": 0.09
+  },
+  {
+   "date": "2026-01-20",
+   "line": "YC4",
+   "moldNo": "M3129",
+   "defect": "WASHBOARD",
+   "percent": 0.3
+  },
+  {
+   "date": "2026-01-21",
+   "line": "YC4",
+   "moldNo": "M3129",
+   "defect": "WASHBOARD",
+   "percent": 0.35
+  },
+  {
+   "date": "2026-01-27",
+   "line": "YC4",
+   "moldNo": "M3129",
+   "defect": "BULGED PANEL",
+   "percent": 0.39
+  }
+ ],
+ "downtime": [
+  {
+   "group": "FEEDER",
+   "item": "GOB DISTRIBUTOR",
+   "line": "YC1",
+   "minutes": 45,
+   "remarks": "CLOGGED FUNNEL"
+  },
+  {
+   "group": "FEEDER",
+   "item": "GOB DISTRIBUTOR",
+   "line": "YC3",
+   "minutes": 100,
+   "remarks": "CLOGGED FUNNEL (H2)"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "FINAL BLOW",
+   "line": "YC4",
+   "minutes": 80,
+   "remarks": "NO COUNTERBLOW"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "FINISH COOLING",
+   "line": "YC2",
+   "minutes": 15,
+   "remarks": "DETACHED HOSE"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "FUNNEL / FUNNEL ARM",
+   "line": "YC3",
+   "minutes": 10,
+   "remarks": "DETACHED FUNNEL"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "HOLDER",
+   "line": "YC2",
+   "minutes": 15,
+   "remarks": "BLANK CLOSE FAILURE"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "INVERT/REVERT MECH.",
+   "line": "YC3",
+   "minutes": 20,
+   "remarks": "INVERT TRACKING ERROR"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "INVERT/REVERT MECH.",
+   "line": "YC4",
+   "minutes": 15,
+   "remarks": "INVERT TRACKING ERROR"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "JAMMING",
+   "line": "YC1",
+   "minutes": 140,
+   "remarks": "STONE SHEARING / GOB MISDELIVERY / AFTER SWABBING"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "JAMMING",
+   "line": "YC2",
+   "minutes": 160,
+   "remarks": "SHORT PARISON / POOR GOB LOADING / CLOGGED FUNNEL"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "JAMMING",
+   "line": "YC3",
+   "minutes": 170,
+   "remarks": "STONE SHEARING / COLLAPSED PARISON / DELIVERY TROUBLE"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "JAMMING",
+   "line": "YC4",
+   "minutes": 40,
+   "remarks": "STONE SHEARING / POOR GOB DELIVERY / AFTER SWABBING"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "TAKE OUT ARM",
+   "line": "YC2",
+   "minutes": 90,
+   "remarks": "DETACHED LINK PIN / VARYING ALIGNMENT / BROKEN ARM"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "TAKE OUT ARM",
+   "line": "YC3",
+   "minutes": 15,
+   "remarks": "DETACHED TONG (H1)"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "VERTIFLOW",
+   "line": "YC2",
+   "minutes": 20,
+   "remarks": "SEC5 CONTINUOUS"
+  },
+  {
+   "group": "IS_MACHINE",
+   "item": "VERTIFLOW",
+   "line": "YC3",
+   "minutes": 60,
+   "remarks": "SEC11, 4, 5, AND 6 CONTINUOUS"
+  },
+  {
+   "group": "WARE_HANDLING",
+   "item": "E - PUSHER/ FLEX PUSHER",
+   "line": "YC2",
+   "minutes": 10,
+   "remarks": "TRACKING ERROR"
+  }
+ ],
+ "personnel": [
+  {
+   "name": "R. Martinez",
+   "leaves": {},
+   "otFirstHalf": 61.5,
+   "otSecondHalf": 41
+  },
+  {
+   "name": "E. Abantao",
+   "leaves": {
+    "VL": 10,
+    "AWP": 8,
+    "HL": 4
+   },
+   "otFirstHalf": 0,
+   "otSecondHalf": 0
+  },
+  {
+   "name": "I. Estoesta",
+   "leaves": {
+    "VL": 1
+   },
+   "otFirstHalf": 40.5,
+   "otSecondHalf": 36.5
+  },
+  {
+   "name": "M. Hernandez",
+   "leaves": {
+    "AWP": 1
+   },
+   "otFirstHalf": 42.5,
+   "otSecondHalf": 61
+  },
+  {
+   "name": "B. Lorenzo",
+   "leaves": {
+    "VL": 1,
+    "HL": 2
+   },
+   "otFirstHalf": 30.5,
+   "otSecondHalf": 34.5
+  },
+  {
+   "name": "R. Malicsi",
+   "leaves": {},
+   "otFirstHalf": 44,
+   "otSecondHalf": 38.5
+  },
+  {
+   "name": "M. Miranda",
+   "leaves": {
+    "VL": 2,
+    "SL": 5,
+    "AWP": 1,
+    "HL": 3
+   },
+   "otFirstHalf": 12.5,
+   "otSecondHalf": 10.5
+  },
+  {
+   "name": "M. Morron",
+   "leaves": {},
+   "otFirstHalf": 65.5,
+   "otSecondHalf": 61.5
+  },
+  {
+   "name": "G. Pamatian",
+   "leaves": {
+    "VL": 2
+   },
+   "otFirstHalf": 23,
+   "otSecondHalf": 22
+  },
+  {
+   "name": "M. Yumang",
+   "leaves": {},
+   "otFirstHalf": 0,
+   "otSecondHalf": 71
+  }
+ ],
+ "swabstick": [
+  {
+   "item": "Extra Small",
+   "received": 0,
+   "available": 0,
+   "consumed": 0
+  },
+  {
+   "item": "Small",
+   "received": 0,
+   "available": 0,
+   "consumed": 700
+  },
+  {
+   "item": "Medium",
+   "received": 0,
+   "available": 0,
+   "consumed": 0
+  },
+  {
+   "item": "Large",
+   "received": 0,
+   "available": 0,
+   "consumed": 0
+  },
+  {
+   "item": "TC100",
+   "received": 0,
+   "available": 0,
+   "consumed": 0
+  }
+ ],
+ "accomplishments": [
+  "The team successfully maintained zero accident record, demonstrating consistent adherence to safety standards.",
+  "Despite facing challenging production schedule, the team successfully achieved a 93.01% team efficiency rate.",
+  "The group achieved 7 out of 9 members qualifying for the Excellent Record Award by maintaining perfect attendance throughout the period and they are R. Martinez, M. Morron, B. Lorenzo, I. Estoesta, M. Hernandez, E. Abantao and R. Malicsi.",
+  "M. Yumang started his training in staff work with Sir E.Molina and Sir R.Maliksi.",
+  "R. Martinez attended staff and team leaders forum last January 19.",
+  "January 22, 2026 – Team cascade of 2025 operation highlights.",
+  "R. Martinez Attended SMYPC-ERC orientation at SMC-HOC last January 23, 2026.",
+  "R. Martinez contributed and donated 15kg of bottle for balik bote program.",
+  "R. Martinez are one of the 5S committees during 5S day last January 27, 2026.",
+  "The team submitted 12 wise proposals for the month of January 2026."
+ ],
+ "cutoffStart": "2025-12-16",
+ "cutoffEnd": "2026-01-15",
+ "audit": {
+  "line": "YC4",
+  "doneBy": "BCL",
+  "checkedBy": "RCBM"
+ }
+}
